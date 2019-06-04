@@ -26,8 +26,8 @@ body{
   background-image: url(../images/alcohol-background-bar-745410.jpg);
   background-size: 100%;
   background-image: center;
-  color: black;
-  text-shadow: 1px 1px whitesmoke;
+  color: rgba(221, 13, 228, 0.774);
+  text-shadow: 1px 1px snow;
 
 
 }
@@ -41,8 +41,8 @@ body{
 
 }
 h1 {
-  color: whitesmoke;
-  text-shadow: 2px 2px black;
+  color:  rgba(221, 13, 228, 0.774);
+  text-shadow: 2px 2px snow;
   
 }
 
